@@ -1,4 +1,4 @@
-<h1 align="center">💻 Curso de Extensão UNA - Introdução ao Python
+<h1 align="center">🎓 Curso de Extensão UNA - Introdução ao Python
 
 <h2 id=course> 😎 Course </h2>
 O curso foi realizado entre os mêses de Março e Abril de 2023; <br>
