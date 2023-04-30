@@ -11,7 +11,7 @@ O objetivo do curso foi introduzir conceitos de lógica de programação em Pyth
 
 As tecnologias que foram utilizadas são as seguintes: 
 
-VSCODE - <a href="https://code.visualstudio.com/">Visual Studio Code</a>
+IDE - <a href="https://code.visualstudio.com/">Visual Studio Code</a>
 <br>
 PYTHON - <a href="https://www.python.org/">Linguagem de Programação Python</a>
 
