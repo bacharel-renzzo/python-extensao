@@ -17,6 +17,5 @@ PYTHON - <a href="https://www.python.org/">Linguagem de Programação Python</a>
 
 <h2 id=Teacher> 👨‍🏫 Teacher</h2>
 
-O curso foi ministrado pelo professor <a href="https://github.com/jcoghi">João Felipe Coghi</a>.
-
+O curso foi ministrado pelo professor <a href="https://github.com/jcoghi">João Felipe Coghi</a>
 
