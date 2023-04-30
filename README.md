@@ -1,7 +1,7 @@
 <h1 align="center">🎓 Curso de Extensão UNA - Introdução ao Python
 
 <h2 id=course> 😎 Course </h2>
-O curso foi realizado remotamente, possuindo uma carga horária de 20 horas entre os meses de Março e Abril de 2023. <br>
+O curso foi realizado remotamente, possuindo uma carga horária de 20 horas. As aulas ocorreram entre os meses de Março e Abril de 2023. <br>
 
 <h2 id=objective> 🎯 Objective</h2>
 
