@@ -1,3 +1,12 @@
+"""
+Leia atentamente as perguntas do programa para obter a melhor experiência de tal.
+Autor: Renzzo Silva Rocha
+RA: 4231925318
+Versão: 1.0
+Data de criação: 17/04/2023
+
+"""
+
 # Ex2 - Faça um programa de verificação de login e senha. O usuário pode errar a senha até 3 vezes antes do programa terminar informando que o acesso foi bloqueado.
 
 # Pede ao usuário que informe o seu login e sua senha
