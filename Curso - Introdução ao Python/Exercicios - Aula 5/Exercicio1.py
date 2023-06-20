@@ -1,3 +1,11 @@
+"""
+Leia atentamente as perguntas do programa para obter a melhor experiência de tal.
+Autor: Renzzo Silva Rocha
+RA: 4231925318
+Versão: 1.0
+Data de criação: 24/04/2023
+
+"""
 ## Ex1 - Criar uma lista com todas as letras minúsculas do alfabeto.
 
 # Cria uma lista vazia chamada "letras"
