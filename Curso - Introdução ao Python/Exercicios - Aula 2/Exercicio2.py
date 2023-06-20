@@ -1,3 +1,12 @@
+"""
+Leia atentamente as perguntas do programa para obter a melhor experiência de tal.
+Autor: Renzzo Silva Rocha
+RA: 4231925318
+Versão: 1.0
+Data de criação: 10/04/2023
+
+"""
+
 # Ex2 - Calculadora de preço da laranja - Cada laranja custa R$0.3, mas quando comprada acima de uma dúzia, seu valor cai para R$0.25 cada
 
 # Declarar a entrada da quantidade de laranjas a ser comprada
