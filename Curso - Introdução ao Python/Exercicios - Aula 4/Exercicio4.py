@@ -1,3 +1,11 @@
+"""
+Leia atentamente as perguntas do programa para obter a melhor experiência de tal.
+Autor: Renzzo Silva Rocha
+RA: 4231925318
+Versão: 1.0
+Data de criação: 17/04/2023
+
+"""
 # Ex4 - Desenvolva uma calculadora de fatorial em que o usuário digita o número e o programa retorna seu fatorial.
 
 # Solicita ao usuário que informe o número da tabuada que ele deseja
