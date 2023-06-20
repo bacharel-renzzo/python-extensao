@@ -1,3 +1,12 @@
+"""
+Leia atentamente as perguntas do programa para obter a melhor experiência de tal.
+Autor: Renzzo Silva Rocha
+RA: 4231925318
+Versão: 1.0
+Data de criação: 10/04/2023
+
+"""
+
 # Ex3 - Caluladora de Peso Ideal
 ## Fazer uma calculadora em que o usuário digita Altura em metros e Peso em quilos e se é do sexo biológico Masculino ou Feminino. O programa devolve ao usuário a informação qual seu peso ideal e quando precisa emagrecer para chegar lá. Ao final, o programa deve trazer uma frase motivadora para aqueles que estão acima do peso, frase parabenizando os que estão no peso ideal e uma outra frase de alerta aos que estão abaixo do peso. 
 
