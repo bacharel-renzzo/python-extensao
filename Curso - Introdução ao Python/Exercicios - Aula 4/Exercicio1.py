@@ -1,3 +1,12 @@
+"""
+Leia atentamente as perguntas do programa para obter a melhor experiência de tal.
+Autor: Renzzo Silva Rocha
+RA: 4231925318
+Versão: 1.0
+Data de criação: 17/04/2023
+
+"""
+
 # Ex1 - Faça um programa que peça verifica se o usuário digitou um número inteiro.
 # Caso tenha digitado, mostrar o número na tela.
 # Caso não tenha digitado, pedir para o usuário digitar novamente.
