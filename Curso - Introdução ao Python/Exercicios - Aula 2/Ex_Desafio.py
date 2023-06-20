@@ -1,3 +1,12 @@
+"""
+Leia atentamente as perguntas do programa para obter a melhor experiência de tal.
+Autor: Renzzo Silva Rocha
+RA: 4231925318
+Versão: 1.0
+Data de criação: 10/04/2023
+
+"""
+
 # Desafio - Gasolina
 
 # Import da biblioteca random - radint
